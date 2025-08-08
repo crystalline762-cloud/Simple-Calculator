@@ -1,1 +1,2 @@
 # SIMPLE CALCULATOR MA BROOO
+## cuma pale HTML CSS lho ya
